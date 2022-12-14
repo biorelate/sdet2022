@@ -1,0 +1,57 @@
+[
+	{
+		"doc_id": 0,
+		"title": "Insulin-like growth factor binding protein 7 modulates estrogen-induced trophoblast proliferation and invasion in HTR-8 and JEG-3 cells.",
+		"date": "2022-11-16T11:07:24.536Z",
+		"snippet": "In conclusion, our data reveals that estrogen stimulates the expression of IGFBP7 through estrogen receptors and TGFB1",
+		"url": "http://doi.org/10.1007/s12013-012-9342-5",
+		"author": "Zhen-Kun Liu",
+		"concept1": "IGFBP7",
+		"concept2": "TGFB1",
+		"relationship": "Increases"
+	},
+	{
+		"doc_id": 1,
+		"title": "Estimating binding free energy of a putative growth factors EGF-VEGF complex - a computational bioanalytical study.",
+		"date": "2022-11-16T11:07:24.536Z",
+		"snippet": "Epidermal growth factor (EGF) and homodimeric vascular endothelial growth factor (VEGDA) bind to cell surface receptors.",
+		"url": "http://doi.org/10.1080/07391102.2015.1090342",
+		"author": "Meng-Han Lin",
+		"concept1": "EGF",
+		"concept2": "VEGDA",
+		"relationship": "Regulates"
+	},
+	{
+		"doc_id": 2,
+		"title": "[Effects of astragaloside-IV on the expression of inflammatory factor and proliferation of glomerular mesangial cells induced by angiotensin Ⅱ].",
+		"date": "2022-11-16T11:07:24.536Z",
+		"snippet": "As-IV decreased the level of intercellular ROS, down-regulated the secretion of CCL2 and the expression of TGFB1 proteins.",
+		"url": "http://doi.org/10.1080/07391102.2015.1090342",
+		"author": "Zhongguo Ying, Yong Sheng Li, Xue Za Zhi",
+		"concept1": "TGFB1",
+		"concept2": "CCL2",
+		"relationship": "Increases"
+	},
+	{
+		"doc_id": 3,
+		"title": "Key role of phosphodiesterase 4A (PDE4A) in autophagy triggered by yessotoxin.",
+		"date": "2022-11-16T11:07:24.536Z",
+		"snippet": "In summary, after 48 h YTX treatment PDE4A-dependent autophagy, as non-apoptotic programmed cell death, is activated.",
+		"url": "http://doi.org/10.1080/07391102.2015.1090342",
+		"author": "Zhongguo Ying, Yong Sheng Li, Xue Za Zhi",
+		"concept1": "autophagy",
+		"concept2": "PDE4A",
+		"relationship": "Regulates"
+	},
+	{
+		"doc_id": 4,
+		"title": "Metformin promotes proliferation and suppresses apoptosis in Ox-LDL stimulated macrophages by regulating the miR-34a/Bcl2 axis.",
+		"date": "2022-11-16T11:07:24.536Z",
+		"snippet": "Conclusion: Metformin facilitated proliferation and inhibited apoptosis of macrophages treated with Ox-LDL through the MIR34a/Bcl2 axis, indicating the potential value of metformin in AS therapy.",
+		"url": "http://doi.org/10.1080/07391102.2015.1090342",
+		"author": "Zhongguo Ying, Yong Sheng Li, Xue Za Zhi",
+		"concept1": "Metformin",
+		"concept2": "MIR34a",
+		"relationship": "Decreases"
+	}
+]

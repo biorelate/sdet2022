@@ -1,0 +1,41 @@
+[tool.isort]
+profile = "black"
+multi_line_output = 3
+include_trailing_comma = true
+force_grid_wrap = 0
+line_length = 79
+use_parentheses = true
+ensure_newline_before_comments = true
+skip_glob = "alembic/*"
+[tool.pytest.ini_options]
+addopts = "--cov=src"
+[tool.flakeheaven]
+base = "https://raw.githubusercontent.com/flakeheaven/flakeheaven/main/pyproject.toml"
+exclude = []
+format = "grouped"
+max_line_length = 79
+show_source = true
+
+[tool.black]
+line-length = 79
+target-version = ['py38']
+include = '.pyi?$'
+exclude = '''
+(
+/(
+.eggs         # exclude a few common directories in the
+| .git          # root of the project
+| .hg
+| .mypy_cache
+| .tox
+| .venv
+| _build
+| buck-out
+| build
+| dist
+)/
+| foo.py           # also separately exclude a file named foo.py in
+# the root of the project
+)
+'''
+
